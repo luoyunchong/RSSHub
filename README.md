@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 <p align="center">
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
